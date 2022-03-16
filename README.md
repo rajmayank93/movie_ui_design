@@ -1,4 +1,4 @@
-# starter
+# Movie App UI DESIGN
 
 A new Flutter application.
 
