@@ -3,8 +3,6 @@
 A new Flutter application.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 THIS ONE I JUST DID FOR UI_DESIGN PURPOSE . 
 I WAS TRYING NEW WIDGETS AND DART OOPS CONCEPT.
 
